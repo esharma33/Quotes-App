@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "352735321738",
+    "project_id": "quotes-app-7040d",
+    "storage_bucket": "quotes-app-7040d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352735321738:android:fddb5cb78b6c0de5d1d773",
+        "android_client_info": {
+          "package_name": "com.example.quotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352735321738-lpgsvos3hst95p3qlpv6slktdkjcg86e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quotesapp",
+            "certificate_hash": "c3f9b86ce7752bfdd03c3b1e1ffa82599fe52c76"
+          }
+        },
+        {
+          "client_id": "352735321738-b4eh32dn1o377vhrp2sp83oau48lugl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcO4Ch8Z7_zt-5-k1WeSxxK-Q4JoWkPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352735321738-b4eh32dn1o377vhrp2sp83oau48lugl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
